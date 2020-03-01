@@ -1,2 +1,0 @@
-# lab
-laboratorio de practicas
